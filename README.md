@@ -1,4 +1,4 @@
-<img src="https://preview.redd.it/1pp5mrq9zpq71.png?width=411&format=png&auto=webp&s=028fe5bd19a16adfe728fc48dfd21bdc326084e6" width="300">
+<img src="[https://preview.redd.it/1pp5mrq9zpq71.png?width=411&format=png&auto=webp&s=028fe5bd19a16adfe728fc48dfd21bdc326084e6](https://drive.google.com/file/d/11yhBVXXo4TyO6zpue-Zl1pCUtUPclq7t/view?usp=drive_link)" width="300">
 
 ### 💻 Sobre mim
 🔹 Desenvolvedor Full Stack  
