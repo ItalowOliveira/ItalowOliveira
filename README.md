@@ -1,4 +1,4 @@
-![Banner](https://preview.redd.it/1pp5mrq9zpq71.png?width=411&format=png&auto=webp&s=028fe5bd19a16adfe728fc48dfd21bdc326084e6.png)
+![Banner](https://preview.redd.it/1pp5mrq9zpq71.png?width=411&format=png&auto=webp&s=028fe5bd19a16adfe728fc48dfd21bdc326084e6)
 
 ### 💻 Sobre mim
 🔹 Desenvolvedor Full Stack  
