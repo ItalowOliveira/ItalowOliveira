@@ -1,4 +1,4 @@
-<img src="[https://drive.google.com/uc?export=view&id=11yhBVXXo4TyO6zpue-Zl1pCUtUPclq7t](https://imgur.com/a/2YgJ1vC)">
+<img src="[https://drive.google.com/uc?export=view&id=11yhBVXXo4TyO6zpue-Zl1pCUtUPclq7t](https://imgur.com/a/2YgJ1vC).png">
 
 
 ### 💻 Sobre mim
