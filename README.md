@@ -6,7 +6,6 @@
 🔹 Sempre aprendendo coisas novas 🚀  
 
 ### 📊 Estatísticas do GitHub  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
 
 
 ### 🌎 Conecte-se comigo  
