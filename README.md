@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/oEPRCsE.png" alt="Descrição da imagem" width='1000px'>
+<img src="https://i.pinimg.com/474x/5b/4e/da/5b4edaeef2d05d9362418ec51049ad84.jpg" alt="Descrição da imagem" width='1000px'>
 
 ### 💻 Sobre mim
 🔹 Desenvolvedor Full Stack  
