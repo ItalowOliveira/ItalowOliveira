@@ -1,10 +1,5 @@
 <img src="https://i.imgur.com/oEPRCsE.png" alt="Descrição da imagem" width='1000px'>
 
-### 💻 Sobre mim
-🔹 Desenvolvedor Full Stack  
-🔹 Apaixonado por tecnologia e inovação  
-🔹 Sempre aprendendo coisas novas 🚀  
-
 ### 📊 Estatísticas do GitHub  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
 
