@@ -9,7 +9,7 @@
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40"/>
-  <img src="https://cdn.simpleicons.org/java/ED8B00" alt="Java" width="40"/>
+  <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v2.png" alt="Java" width="40"/>
   <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40"/>
   <img src="https://cdn.simpleicons.org/postgresql/336791" alt="SQL" width="40"/>
