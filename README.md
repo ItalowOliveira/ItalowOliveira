@@ -1,3 +1,4 @@
+###Olá, eu sou o Italo!
 
 ### 📊 Estatísticas do GitHub  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
@@ -6,6 +7,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ItalowOliveira)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/ItalowOliveira)  
+
+I ❤ Coding!
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40"/>
