@@ -1,4 +1,4 @@
-###Olá, eu sou o Italo!
+### Olá, eu sou o Italo!
 
 ### 📊 Estatísticas do GitHub  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
