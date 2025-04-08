@@ -1,4 +1,5 @@
 <h1 align="center">Olá eu sou Italo</h1>
+<p align="center">Seja bem-vindo ao meu GitHub</p>
 
 I ❤ Coding!
 
