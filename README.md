@@ -1,6 +1,7 @@
 <h1 align="center">Olá eu sou Italo</h1>
 <p align="center">Seja bem-vindo(a) ao meu GitHub</p>
 
+#
 
 <h2 align="center">Sobre mim</h2>
 Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Sistemas.*** Desde criança, sempre tive um grande interesse por tecnologia. Sempre fui curioso e gostei de resolver problemas ligados à área, o que me levou a me apaixonar pelo desenvolvimento de software. Hoje, busco seguir uma carreira sólida nessa área, com o objetivo de evoluir e me aprimorar constantemente.
@@ -8,7 +9,6 @@ Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Siste
 ### 📊 Minhas Eetatísticas do GitHub:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
 
-#
 
 ### 🌎 Conecte-se comigo  
 
