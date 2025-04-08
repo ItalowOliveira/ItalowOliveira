@@ -1,4 +1,7 @@
- # <center> Olá, eu sou o Italo! </center>
+<p align="center">
+  # Olá, eu sou o Italo!
+</p>
+
 
 I ❤ Coding!
 
