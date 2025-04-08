@@ -2,7 +2,7 @@
 
 I ❤ Coding!
 
-### 📊 Estatísticas do GitHub  
+### 📊 Minhas Eetatísticas do GitHub:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
 
 #
@@ -13,7 +13,7 @@ I ❤ Coding!
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/ItalowOliveira)  
 
 
-#
+### Teconologias que eu domino:
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40"/>
