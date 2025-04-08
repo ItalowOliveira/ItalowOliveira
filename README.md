@@ -10,10 +10,9 @@
 Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Sistemas.*** Desde criança, sempre tive um grande interesse por tecnologia. Sempre fui curioso e gostei de resolver problemas ligados à área, o que me levou a me apaixonar pelo desenvolvimento de software. Hoje, busco seguir uma carreira sólida nessa área, com o objetivo de evoluir e me aprimorar constantemente.
 
 
-<div align="center">
  ### 📊 Minhas Estatísticas do GitHub:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
-</div>
+
 ### 🌎 Conecte-se comigo  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/italo-oliveira-b1049a351)  
