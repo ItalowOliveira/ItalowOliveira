@@ -1,7 +1,9 @@
 <h1 align="center">Olá eu sou Italo</h1>
-<p align="center">Seja bem-vindo ao meu GitHub</p>
+<p align="center">Seja bem-vindo(a) ao meu GitHub</p>
 
-I ❤ Coding!
+#
+
+## Sobre Mim
 
 ### 📊 Minhas Eetatísticas do GitHub:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
