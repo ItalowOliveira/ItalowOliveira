@@ -1,4 +1,4 @@
-# Olá, eu sou o Italo!
+ # <center> Olá, eu sou o Italo! </center>
 
 I ❤ Coding!
 
