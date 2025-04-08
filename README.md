@@ -1,6 +1,4 @@
-<p align="center">
-  <span style="font-size: 1.5em;">Olá, eu sou o Italo!</span>
-</p>
+<h1 align="center">Olá eu sou Italo</h1>
 
 I ❤ Coding!
 
