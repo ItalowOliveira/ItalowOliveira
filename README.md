@@ -1,5 +1,5 @@
 <p align="center">
-### Olá, eu sou o Italo!
+  <span style="font-size:30px;">Olá, eu sou o Italo!</span>
 </p>
 
 
