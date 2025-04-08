@@ -18,8 +18,7 @@ Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Siste
 <div align="center">
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ItalowOliveira)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItalowOliveira&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 </div>
 
 ### Teconologias que eu domino:
