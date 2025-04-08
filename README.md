@@ -1,5 +1,6 @@
+<div align="center">
 <img src="https://www.superluigibros.com/images/supermariokart_gifs/mario.gif" alt="Gato pulando" width="100" align="center"/>
-
+</div>
 
 
 <h1 align="center">Olá eu sou Italo</h1>
