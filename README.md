@@ -3,7 +3,7 @@
 
 #
 
-## Sobre Mim
+<h3 align="center">Olá eu sou Italo</h3>
 
 Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Sistemas.*** Desde criança, sempre tive um grande interesse por tecnologia. Sempre fui curioso e gostei de resolver problemas ligados à área, o que me levou a me apaixonar pelo desenvolvimento de software. Hoje, busco seguir uma carreira sólida nessa área, com o objetivo de evoluir e me aprimorar constantemente.
 
