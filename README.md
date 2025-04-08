@@ -1,7 +1,6 @@
 <p align="center">
-  <font size="100">Olá, eu sou o Italo!</font>
+  <span style="font-size: 1.5em;">Olá, eu sou o Italo!</span>
 </p>
-
 
 I ❤ Coding!
 
