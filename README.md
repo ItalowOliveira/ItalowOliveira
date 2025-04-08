@@ -1,4 +1,4 @@
-<img src="https://www.superluigibros.com/images/supermariokart_gifs/mario.gif" alt="Gato pulando" width="300"/>
+<img src="https://www.superluigibros.com/images/supermariokart_gifs/mario.gif" alt="Gato pulando" width="100" align="center"/>
 
 
 
