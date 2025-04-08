@@ -1,4 +1,5 @@
-![Descrição do GIF]([(https://www.superluigibros.com/images/supermariokart_gifs/mario.gif))
+<img src="https://www.superluigibros.com/images/supermariokart_gifs/mario.gif" alt="Gato pulando" width="300"/>
+
 
 
 <h1 align="center">Olá eu sou Italo</h1>
