@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size:30px;">Olá, eu sou o Italo!</span>
+  <span style="font-size:1000px;">Olá, eu sou o Italo!</span>
 </p>
 
 
