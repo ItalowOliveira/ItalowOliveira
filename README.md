@@ -1,3 +1,6 @@
+![Descrição do GIF]([(https://www.superluigibros.com/images/supermariokart_gifs/mario.gif))
+
+
 <h1 align="center">Olá eu sou Italo</h1>
 <p align="center">Seja bem-vindo(a) ao meu GitHub</p>
 
