@@ -1,9 +1,8 @@
 <div align="center">
-<img src="https://www.superluigibros.com/images/supermariokart_gifs/mario.gif" alt="Gato pulando" width="100" align="center"/>
+<img src="https://www.superluigibros.com/images/supermariokart_gifs/mario.gif"  width="100" align="center"/>
+<h1 align="center">Olá eu sou Italo</h1>
 </div>
 
-
-<h1 align="center">Olá eu sou Italo</h1>
 <p align="center">Seja bem-vindo(a) ao meu GitHub</p>
 <h2 align="center">Sobre mim</h2>
 
