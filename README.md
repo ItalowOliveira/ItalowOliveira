@@ -7,7 +7,7 @@
 <div align="center">
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=ItalowOliveira&theme=tokyonight&card_width=470)](https://git.io/streak-stats)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=ItalowOliveira&theme=tokyonight&card_width=450)](https://git.io/streak-stats)
 </div>
 
 <h2 align="center">Sobre mim</h2>
