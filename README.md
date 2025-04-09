@@ -3,8 +3,6 @@
 <h1 align="center">Olá eu sou Italo</h1>
 </div>
 
-<p align="center">Seja bem-vindo(a) ao meu GitHub</p>
-
 <div align="center">
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
