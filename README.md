@@ -12,8 +12,6 @@ Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Siste
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/ItalowOliveira)  
 
 
-<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=&theme=blood-dark&card_width=470" alt="GitHub Streak" /></a>
-
  ### 📊 Minhas Estatísticas do GitHub:
 
 <div align="center">
