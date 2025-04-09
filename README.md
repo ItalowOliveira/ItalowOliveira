@@ -1,7 +1,7 @@
-<p align="center">Seja bem-vindo(a) ao meu GitHub</p>
+<h1>Seja bem-vindo(a) ao meu GitHub</h1>
 <div align="center">
 <img src="https://www.superluigibros.com/images/supermariokart_gifs/mario.gif"  width="100" align="center"/>
-<h1 align="center">Olá eu sou Italo</h1>
+<h3 align="center">Olá eu sou Italo</h3>
 </div>
 
 <div align="center">
