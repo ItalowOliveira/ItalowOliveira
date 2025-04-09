@@ -3,7 +3,7 @@
 <h1 align="center">Olá eu sou Italo</h1>
 </div>
 
- ### 📊 Minhas Estatísticas do GitHub:
+<p align="center">Seja bem-vindo(a) ao meu GitHub</p>
 
 <div align="center">
  
