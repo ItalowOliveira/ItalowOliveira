@@ -9,7 +9,7 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=&theme=blood-dark&card_width=470)](https://git.io/streak-stats)
-
+</div>
 
 <p align="center">Seja bem-vindo(a) ao meu GitHub</p>
 <h2 align="center">Sobre mim</h2>
@@ -18,14 +18,6 @@ Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Siste
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/italo-oliveira-b1049a351)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/ItalowOliveira)  
-
-
- ### 📊 Minhas Estatísticas do GitHub:
-
-<div align="center">
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=&theme=blood-dark&card_width=470)](https://git.io/streak-stats)
 
 ### Teconologias que eu domino:
 
