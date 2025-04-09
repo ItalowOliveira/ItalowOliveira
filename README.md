@@ -7,9 +7,8 @@
 <div align="center">
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=ItalowOliveira&theme=tokyonight-duo&card_width=400)](https://git.io/streak-stats)
-
 <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=ItalowOliveira&theme=tokyonight-duo&card_width=400" alt="GitHub Streak" /></a>
+
 </div>
 
 <h2 align="center">Sobre mim</h2>
