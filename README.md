@@ -1,4 +1,4 @@
-<h1>Seja bem-vindo(a) ao meu GitHub</h1>
+<h1 align="center"> Seja bem-vindo(a) ao meu GitHub</h1>
 <div align="center">
 <img src="https://www.superluigibros.com/images/supermariokart_gifs/mario.gif"  width="100" align="center"/>
 <h3 align="center">Olá eu sou Italo</h3>
