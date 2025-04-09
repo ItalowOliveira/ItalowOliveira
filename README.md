@@ -7,7 +7,7 @@
 <div align="center">
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=radical)
-<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=ItalowOliveira&theme=tokyonight-duo&card_width=400" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=ItalowOliveira&theme=tokyonight-duo&card_width=400" width="400" alt="GitHub Streak" /></a>
 
 </div>
 
