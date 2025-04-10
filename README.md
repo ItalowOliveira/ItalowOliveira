@@ -6,7 +6,7 @@
 
 <div align="center">
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=tokyonight)
 <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=ItalowOliveira&theme=tokyonight-duo&card_width=480" height="165" alt="GitHub Streak" /></a>
 
 </div>
