@@ -19,6 +19,7 @@ Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Siste
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/ItalowOliveira)  
 
 ### 🥇 Skills:
+#
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40"/>
