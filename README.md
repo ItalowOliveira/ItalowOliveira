@@ -20,6 +20,7 @@ Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Siste
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue">
 
 </p>
+
 ### 🥇 Skills:
 #
 
