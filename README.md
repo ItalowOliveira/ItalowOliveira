@@ -18,9 +18,6 @@ Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Siste
 <p align="center">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue">
- 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/italo-oliveira-b1049a351)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/ItalowOliveira)  
 
 </p>
 ### 🥇 Skills:
