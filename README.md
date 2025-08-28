@@ -32,7 +32,7 @@ Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Siste
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40"/>
   <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v2.png" alt="Java" width="40"/>
   <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
 </p>
 
