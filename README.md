@@ -25,6 +25,8 @@ Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Siste
 #
 
 <p align="left">
+   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40"/>
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40"/>
   <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v2.png" alt="Java" width="40"/>
   <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="40"/>
@@ -34,4 +36,9 @@ Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Siste
   <img src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" width="40"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40"/>
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt="ASP.NET" width="40"/>
+   <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" width="40"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40"/>
+   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40"/>
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40"/>
 </p>
