@@ -50,6 +50,6 @@ Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Siste
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40"/>
-  <img src="https://cdn.simpleicons.org/github/181717?color=white" alt="GitHub" width="40"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="40"/>
 </p>
 
