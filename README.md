@@ -26,7 +26,7 @@ Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Siste
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40"/>
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40"/>
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40"/>
