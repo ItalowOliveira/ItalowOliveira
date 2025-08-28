@@ -45,7 +45,7 @@ Olá, meu nome é Ítalo e estou cursando ***Análise e Desenvolvimento de Siste
 <p align="left">
   <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="40"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40"/>
- <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40"/>
 </p>
 
 <p align="left">
