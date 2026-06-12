@@ -6,8 +6,8 @@
 
 <div align="center">
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=tokyonight&card_width=300)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItalowOliveira&theme=tokyonight&locale=pt_BR&card_width=300)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalowOliveira&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItalowOliveira&theme=tokyonight&locale=pt_BR&card_width=500&card_height=100)](https://git.io/streak-stats)
 
 </div>
 
